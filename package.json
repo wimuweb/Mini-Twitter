@@ -1,0 +1,22 @@
+{
+  "name": "twitter-app",
+  "version": "1.0.0",
+  "description": "Aplicación para redes sociales",
+  "main": "index.js",
+  "author": "WIMUWEB",
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "react",
+    "starter-kit",
+    "webpack",
+    "fullstack",
+    "express",
+    "express4",
+    "nestjs",
+    "node",
+    "social media",
+    "red social"
+  ]
+
+}
